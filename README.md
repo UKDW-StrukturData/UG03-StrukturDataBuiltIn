@@ -1,6 +1,6 @@
 # UG03-StrukturDataBuiltIn
 
-Buatlah sebuah program untuk melakukan dekripsi kata. Program akan meminta 2 input pengguna, pesan terenkripsi dan kata kunci enkripsi. Pesan yang terenkripsi tidak boleh menggunakan spasi, proses dekripsi ini dilakukan dengan cara mencari nilai dari setiap hurufnya lalu ditambahkan dengan nilai kata kuncinya. 
+Buatlah sebuah program untuk melakukan enkripsi kata. Program akan meminta 2 input pengguna: pesan yang ingin dienkripsi dan kata kunci enkripsi. input tidak boleh menggunakan spasi, angka, atau huruf kapital. proses enkripsi ini dilakukan dengan cara mencari nilai dari setiap hurufnya lalu ditambahkan dengan nilai kata kuncinya. 
 Contoh:
 
 Pesan : aku
@@ -44,3 +44,5 @@ Kombinasi terakhir kan 7 17 1
 1 = b
 
 Hasil akhir : hrb
+
+![](./ssoutput.png)
